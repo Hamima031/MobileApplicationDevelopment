@@ -1,12 +1,9 @@
 <resources>
-    <string name="app_name">Beer Selector</string>
-    <string name="find_beer">Find Beer!</string>
-    <string name="brands">Brands</string>
-    
-    <string-array name="beer_colors">
-        <item>light</item>
-        <item>amber</item>
-        <item>brown</item>
-        <item>dark</item>
-    </string-array>
+    <string name="app_name">Messenger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send Message</string>
+    <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+    <string name="chooser">Send message...</string>
 </resources>
